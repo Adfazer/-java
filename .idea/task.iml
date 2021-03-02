@@ -19,8 +19,34 @@
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 1/ex14" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 1/ex15" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 1/ex16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex12/ch01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex12/ch01/sec01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex15" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="opencsv-5.3" level="project" />
   </component>
 </module>
