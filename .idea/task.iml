@@ -23,7 +23,6 @@
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex03" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex04" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex05" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex07" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex08" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex09" isTestSource="false" />
@@ -36,11 +35,18 @@
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex14" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex15" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 2/ex17" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex03" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex04" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex05" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex01" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
