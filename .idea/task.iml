@@ -46,7 +46,12 @@
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex13" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex14" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 3/ex15" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex11" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
