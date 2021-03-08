@@ -52,6 +52,9 @@
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex09" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex10" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 4/ex11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 5/ex01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 5/ex02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 5/ex03" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
