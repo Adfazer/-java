@@ -7,7 +7,7 @@
  * ней зарплаты в массиве работников.
  */
 
-public class Program1 {
+public class Program11111 {
     public static void main(String[] args) {
         Measurable[] objects = new Measurable[10];
 
