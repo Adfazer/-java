@@ -423,6 +423,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\task\Chapter 6\ex14\P14.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\task\Chapter 6\ex15\P15.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\task\Chapter 6\ex16\P16.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
