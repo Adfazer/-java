@@ -465,6 +465,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\task\Chapter 7\ex05\pp5.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\task\Chapter 7\ex09\pp9.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
