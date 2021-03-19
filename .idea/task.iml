@@ -99,6 +99,9 @@
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 7/ex14" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 7/ex15" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task/Chapter 7/ex16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 8/ex01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 8/ex02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task/Chapter 8/ex03" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
